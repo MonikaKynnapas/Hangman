@@ -1,7 +1,6 @@
-new *
+
 class Leaderboard:
 
-    new *
     def __init__(self, date, name, word, misses, time):
         self.date = date
         self.name = name
