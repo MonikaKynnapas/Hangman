@@ -1,0 +1,5 @@
+2023-01-28 23:16:55;Monika;Suvila;;11
+2023-01-28 23:17:37;Nipitiri;Lasteaiaõpetaja;D, D;30
+2023-01-28 23:24:52;Keegi;Kutseõpetaja;H;73
+2023-01-28 23:27:49;Ere Päike;Bussijuht;Y;22
+2023-01-28 23:39:39;Midaiganes;Kasvuhoone;;22
