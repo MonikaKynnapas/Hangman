@@ -3,3 +3,12 @@
 2023-01-28 23:24:52;Keegi;Kutseõpetaja;H;73
 2023-01-28 23:27:49;Ere Päike;Bussijuht;Y;22
 2023-01-28 23:39:39;Midaiganes;Kasvuhoone;;22
+2023-02-01 08:57:10;Monika koolis;Veoautojuht;;45
+2023-02-01 09:20:39;ei tea;Peugeot;;21
+2023-02-01 09:38:52;kontroll;Honda;;13
+2023-02-01 09:43:13;UNKOWN;Mercedes;;20
+2023-02-01 09:43:14;UNKOWN;Mercedes;;20
+2023-02-01 09:43:15;UNKOWN;Mercedes;;20
+2023-02-01 09:43:16;UNKOWN;Mercedes;;20
+2023-02-01 09:44:51;Uus proov;Volkswagen;;33
+2023-02-01 09:44:54;Uus proov;Volkswagen;;33

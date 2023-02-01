@@ -17,7 +17,7 @@ class Model:
         self.counter = 0  # valesti arvatud tähed kokku lugeda
         # Leaderboard
         self.player_name = 'UNKOWN'
-        self.leaderboard_file = 'leaderboard.txt'
+        self.leaderboard_file = 'leaderboard_1.txt'
         self.score_data = []  # eelneva faili sisu
 
     def start_new_game(self):
