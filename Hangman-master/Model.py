@@ -17,7 +17,7 @@ class Model:
         self.counter = 0  # valesti arvatud tähed kokku lugeda
         # Leaderboard
         self.player_name = 'UNKOWN'
-        self.leaderboard_file = 'leaderboard_1.txt'
+        self.leaderboard_file = 'leaderboard.txt'
         self.score_data = []  # eelneva faili sisu
 
     def start_new_game(self):
@@ -76,7 +76,7 @@ class Model:
     def set_player_name(self, name, seconds):
         line = []
         now = datetime.now().strftime('%Y-%m-%d %T')
-        if name.strip():
+        if name is not None:
             self.player_name = name.strip()
 
         line.append(now)  # Time

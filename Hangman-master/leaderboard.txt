@@ -12,3 +12,4 @@
 2023-02-01 09:43:16;UNKOWN;Mercedes;;20
 2023-02-01 09:44:51;Uus proov;Volkswagen;;33
 2023-02-01 09:44:54;Uus proov;Volkswagen;;33
+2023-02-01 11:20:47;UNKOWN;Renault;;12
